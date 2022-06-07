@@ -1,5 +1,3 @@
-https://gulpjs.com/docs/en/getting-started/quick-start
-
 -) устанавливаем Node.js https://nodejs.org/uk/
 -) проверяем версию ноды              node --version
 -) проверяем версию  npm              npm --version
@@ -11,6 +9,12 @@ https://gulpjs.com/docs/en/getting-started/quick-start
 
 
 
+
+https://gulpjs.com/docs/en/getting-started/quick-start
+https://gulpjs.com/docs/en/getting-started/watching-files/
+https://browsersync.io/docs/gulp
+https://www.npmjs.com/package/gulp-sass
+https://webdesign-master.ru/blog/tools/gulp-4-lesson.html
 
 
 Это ненадо
