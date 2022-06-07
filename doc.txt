@@ -9,12 +9,13 @@
 
 
 
-
+https://nodejs.org/uk/
 https://gulpjs.com/docs/en/getting-started/quick-start
 https://gulpjs.com/docs/en/getting-started/watching-files/
 https://browsersync.io/docs/gulp
 https://www.npmjs.com/package/gulp-sass
 https://webdesign-master.ru/blog/tools/gulp-4-lesson.html
+https://webdesign-master.ru/blog/docs/gulp-documentation.html#explaining-globs
 
 
 Это ненадо
