@@ -1,0 +1,15 @@
+body {
+    color: #00f;
+}
+
+.box {
+    color: #0ff;
+
+    &:hover {
+        color: #f00;
+    }
+}
+
+.box2 {
+    color: #f0f;
+}
